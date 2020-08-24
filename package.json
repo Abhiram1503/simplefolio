@@ -1,5 +1,6 @@
 {
   "name": "simplefolio",
+  "homepage": "https://abhiram1503.github.io/simplefolio",
   "version": "1.0.1",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "main": "index.js",
